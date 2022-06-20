@@ -1,2 +1,2 @@
 # Portfolio Website
-Project gabut, lagi nunggu lebaran (1 Syawal 1443 H)
+This is initial project for my portofolio website guys hehe
